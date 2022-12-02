@@ -1,0 +1,60 @@
+[
+  {
+    "_id": "6388b89abd482f7609ad298e",
+    "name": "John",
+    "email": "john@demo.com",
+    "phoneNumber": "090078601",
+    "subscribed": [{ "_id": "6388b09e37683bb72682d80b" }],
+    "channels": [
+      {
+        "_id": "6388aabd1d4fa4eab9d32846"
+      }
+    ]
+  },
+  {
+    "_id": "6388b90abd482f7609ad2992",
+    "name": "David",
+    "email": "david@demo.com",
+    "phoneNumber": "090078601",
+    "subscribed": [
+      {
+        "_id": "6388b0b037683bb72682d80d"
+      },
+      {
+        "_id": "6388b0b637683bb72682d80f"
+      }
+    ],
+    "channels": [
+      {
+        "_id": "6388aac21d4fa4eab9d32848"
+      },
+      {
+        "_id": "6388aac71d4fa4eab9d3284a"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "_id": "6388ba19bd482f7609ad2995"
+    },
+    "name": "Tim",
+    "email": "tim@demo.com",
+    "phoneNumber": "090078601",
+    "subscribed": [
+      {
+        "_id": "6388b0b637683bb72682d80f"
+      },
+      {
+        "_id": "6388b0b637683bb72682d80f"
+      }
+    ],
+    "channels": [
+      {
+        "_id": "6388aabd1d4fa4eab9d32846"
+      },
+      {
+        "_id": "6388aac71d4fa4eab9d3284a"
+      }
+    ]
+  }
+]

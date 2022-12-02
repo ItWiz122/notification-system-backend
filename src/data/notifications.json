@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "6388aabd1d4fa4eab9d32846",
+    "type": "Push Notification"
+  },
+  {
+    "_id": "6388aac21d4fa4eab9d32848",
+    "type": "SMS"
+  },
+  {
+    "_id": "6388aac71d4fa4eab9d3284a",
+    "type": "E-mail"
+  }
+]
